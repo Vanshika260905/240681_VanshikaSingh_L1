@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main() {
+    printf("HELLO ACM, My name is Vanshika Singh\n");
+    return 0;
+}
+
